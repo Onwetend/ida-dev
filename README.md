@@ -1,9 +1,9 @@
 # Ida _Jun-Dev_
 
-For the live version, see https://www.doryphore.ru/ida
+Live version https://www.doryphore.ru/ida
 
 ###
-Node version 16.16.0
+Node version 16.15.0
 
 ## Project setup
 ```
