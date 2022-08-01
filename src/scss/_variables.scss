@@ -1,0 +1,19 @@
+// stylelint-disable scss/dollar-variable-empty-line-before
+
+$text-black: #3f3f3f;
+$label-black: #49485e;
+$inner-gray: #b4b4b4;
+$background-white: #fffefb;
+$background-attention: #ff8484;
+$background-inactive: #eee;
+
+// FONTS
+// stylelint-disable-next-line
+$font-primary: -apple-system, blinkmacsystemfont, "SSPro", "Segoe UI", roboto, oxygen, ubuntu, cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+$desktop: 1025;
+$desktop-xl: 1800;
+$laptop: 1440;
+$tablet: 768;
+$mobile: 320;
+$desktop-vh: 750;
