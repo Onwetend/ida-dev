@@ -1,9 +1,9 @@
 # Ida _Jun-Dev_
 
-Live: https://www.doryphore.ru/ida
+https://www.doryphore.ru/ida
 
 ###
-Node version 16.15.0
+Node 16.15.0
 
 ## Установка
 ```
