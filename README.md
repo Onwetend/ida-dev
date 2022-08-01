@@ -1,21 +1,21 @@
 # Ida _Jun-Dev_
 
-Live version https://www.doryphore.ru/ida
+Live: https://www.doryphore.ru/ida
 
 ###
 Node version 16.15.0
 
-## Project setup
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция под разработку
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция под реализацию
 ```
 npm run build
 ```
